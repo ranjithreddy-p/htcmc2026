@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTCMC 2026 - International Workshop on High Throughput Correlative Materials Characterization</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f0f0f0; color: #333; }
+        header { background-color: #003366; color: white; padding: 20px; text-align: center; }
+        .logo { font-size: 2.5em; font-weight: bold; }
+        nav { background-color: #666; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; }
+        section { padding: 20px; max-width: 1200px; margin: 0 auto; background: white; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        h2 { color: #003366; }
+        table { width: 100%; border-collapse: collapse; margin: 20px 0; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        footer { background-color: #003366; color: white; text-align: center; padding: 10px; }
+        .sponsors { display: flex; flex-wrap: wrap; justify-content: center; }
+        .sponsors img { margin: 10px; max-height: 50px; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="logo">HTCMC 2026</div>
+        <h1>International Workshop on High Throughput Correlative Materials Characterization</h1>
+        <p>February 10-11, 2026 | Zakir Hussain Lecture Hall Complex, University of Hyderabad, Hyderabad, India</p>
+    </header>
+
+    <nav>
+        <a href="#about">About</a>
+        <a href="#focus">Focus Areas</a>
+        <a href="#audience">Target Audience</a>
+        <a href="#schedule">Programme Schedule</a>
+        <a href="#registration">Registration</a>
+        <a href="#sponsors">Sponsors</a>
+        <a href="#team">Organizing Team</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about">
+        <h2>About the Workshop</h2>
+        <p>The workshop will provide a platform for academia and industry experts from across the world to present the state of the art in high throughput correlative materials characterization in terms of instrumentation and data analysis techniques. It also includes hands-on demonstration sessions on advanced characterization equipment.</p>
+        <p>For the first time in India, experience it at the University of Hyderabad.</p>
+        <!-- Placeholder for image: <img src="workshop-image.jpg" alt="Workshop Equipment" style="width:100%;"> -->
+    </section>
+
+    <section id="focus">
+        <h2>Focus Areas</h2>
+        <ul>
+            <li>Scanning Electron Microscopy</li>
+            <li>Focused Ion Beam Milling</li>
+            <li>Transmission Electron Microscopy</li>
+            <li>Micro X-ray Diffraction</li>
+            <li>Nano/Micro Mechanical Testing</li>
+            <li>Modelling and Simulation</li>
+            <li>In-situ TEM</li>
+        </ul>
+    </section>
+
+    <section id="audience">
+        <h2>Target Audience</h2>
+        <p>Practicing engineers, scientists, master's students, PhD scholars and research fellows in the field of Materials Engineering.</p>
+    </section>
+
+    <section id="schedule">
+        <h2>Programme Schedule</h2>
+        <h3>10-02-2026 (Day 1)</h3>
+        <p>Venue: Zakir Hussain Lecture Hall Complex</p>
+        <table>
+            <tr><th>Time</th><th>Session</th></tr>
+            <tr><td>9:30 AM</td><td>Orientation Imaging Microscopy - Prof. Leo Kestens, Ghent University, Belgium</td></tr>
+            <tr><td>10:30 AM</td><td>ThermoFisher Scientific</td></tr>
+            <tr><td>11:00 AM</td><td>Coffee break</td></tr>
+            <tr><td>11:15 AM</td><td>Micro X-Ray Diffraction - Dr. Joydeep Joardar, ARCI, India</td></tr>
+            <tr><td>12:15 PM</td><td>Rigaku</td></tr>
+            <tr><td>12:45 PM</td><td>Lunch</td></tr>
+            <tr><td>01:45 PM</td><td>Advancements in In-situ Transmission Electron Microscopy - Dr. S.R.K. Malladi, IITH, India</td></tr>
+            <tr><td>02:45 PM</td><td>JEOL</td></tr>
+            <tr><td>03:15 PM</td><td>High Tea</td></tr>
+            <tr><td>03:30 PM</td><td>Leveraging Nanoscale Chemical Insights from Atom Probe Tomography to Complement Multiscale Materials Characterization - Dr. Rama Srinivas Varanasi, IITH, India</td></tr>
+            <tr><td>04:30 PM</td><td>DENS Solutions</td></tr>
+            <tr><td>05:00 PM</td><td>Hummingbird</td></tr>
+        </table>
+
+        <h3>11-02-2026 (Day 2)</h3>
+        <p>Venue: Zakir Hussain Lecture Hall Complex</p>
+        <table>
+            <tr><th>Time</th><th>Session</th></tr>
+            <tr><td>9:00 AM</td><td>Nano Mechanical Testing: Past, Present & Future – Prof. Warren C Oliver, University of Tennessee, USA* (*Online session)</td></tr>
+            <tr><td>10:00 AM</td><td>High Speed & High Throughput Nano Mechanical Testing - Prof. Sudharshan Phani, University of Hyderabad, India</td></tr>
+            <tr><td>11:00 AM</td><td>Coffee break</td></tr>
+            <tr><td>11:15 AM</td><td>In-situ nanomechanical testing - Prof. Daniel Kiener, Montan universität Leoben, Austria</td></tr>
+            <tr><td>12:15 PM</td><td>See It, Feel It, Resist It: Integrating Multi-Modal Metrology for Thin Film Performance - Bryan Crawford, KLA Corporation, USA</td></tr>
+            <tr><td>12:45 PM</td><td>Lunch</td></tr>
+            <tr><td>01:45 PM</td><td>Machine Learning-Driven Microstructural Decoding with High-Throughput Nanoindentation and Correlative Analysis - Dr. Edoardo Rossi, Roma Tre University, Roma, Italy* (*Online session)</td></tr>
+            <tr><td>02:45 PM</td><td>Bruker</td></tr>
+            <tr><td>03:15 PM</td><td>High Tea</td></tr>
+            <tr><td>03:30 PM</td><td>Panel Discussion – Prof. Jai P. Gautam, UoH, India</td></tr>
+            <tr><td>04:00 PM</td><td>Closing Remarks</td></tr>
+        </table>
+    </section>
+
+    <section id="registration">
+        <h2>Registration</h2>
+        <p>Participants should register online using the following link: <a href="https://docs.google.com/forms/d/e/1FAIpQLSc5vhrZ0_UmxwC_LgeR8PsCGV_Ux5HYrBUZAhQc4z8X4QDAQ/viewform?usp=header">Registration Form</a></p>
+        <p>Make the payment using the following link: <a href="https://payuoh.uohyd.ac.in/PG/PaymentTypes">UoH Payments</a></p>
+        <ul>
+            <li>Click on Proceed, then Go to Event Regi. Fees and Select workshop name and do the payment.</li>
+            <li>Early bird registration fee*: Rs. 5,000 (Rs. 2,000 for Students) (*excluding 18% GST)</li>
+            <li>Pay by January 31st, 2026 (to avail the early bird registration fee)</li>
+            <li>Send your payment slip to: htcmc2026@gmail.com</li>
+        </ul>
+    </section>
+
+    <section id="sponsors">
+        <h2>Sponsored by</h2>
+        <div class="sponsors">
+            <!-- Add sponsor logos as images: e.g., <img src="sponsor1.png" alt="Sponsor 1"> -->
+            <p>ThermoFisher Scientific, JEOL, Rigaku, DENS Solutions, Hummingbird, Bruker, KLA, and others.</p>
+        </div>
+        <h3>Co-sponsored by</h3>
+        <div class="sponsors">
+            <!-- Add co-sponsor logos -->
+            <p>AMETEK, LabIndia, Samar Instruments, AIMING FOR THE BEST.</p>
+        </div>
+    </section>
+
+    <section id="team">
+        <h2>Organizing Team</h2>
+        <ul>
+            <li>Prof. Jai P. Gautam (Chairman), UoH</li>
+            <li>Prof. Sudharshan Phani, UoH</li>
+            <li>Dr. Venkata Girish Kotnur, UoH</li>
+            <li>Dr. S.R.K. Malladi, IITH</li>
+            <li>Dr. Siva Rajesh. S, JEOL</li>
+            <li>Dr. Sharath Anishetty, ThermoFisher Scientific</li>
+            <li>Mr. Saikumar Katta, IR-TECH</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: htcmc2026@gmail.com</p>
+        <p>Mobile: +91 8341106736</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 HTCMC. All rights reserved. | University of Hyderabad</p>
+    </footer>
+
+    <script>
+        // Smooth scrolling for nav links
+        document.querySelectorAll('nav a').forEach(anchor => {
+            anchor.addEventListener('click', function (e) {
+                e.preventDefault();
+                document.querySelector(this.getAttribute('href')).scrollIntoView({ behavior: 'smooth' });
+            });
+        });
+    </script>
+</body>
+</html>
